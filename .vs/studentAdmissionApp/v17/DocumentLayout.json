@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50D1A06-954D-45AC-9FE8-5494A0F2CB29}|mainForm\\mainForm.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\mainform\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A50D1A06-954D-45AC-9FE8-5494A0F2CB29}|mainForm\\mainForm.vbproj|solutionrelative:mainform\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EF9F68-DF8F-4673-B897-0F41655ACC26}|studentAdmission.DAL\\studentAdmission.DAL.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission.dal\\studentdal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EF9F68-DF8F-4673-B897-0F41655ACC26}|studentAdmission.DAL\\studentAdmission.DAL.vbproj|solutionrelative:studentadmission.dal\\studentdal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0894C91-FBEE-4E3F-9264-D2AAA045A0AB}|studentAdmission\\studentAdmission.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C0894C91-FBEE-4E3F-9264-D2AAA045A0AB}|studentAdmission\\studentAdmission.vbproj|solutionrelative:studentadmission\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EF9F68-DF8F-4673-B897-0F41655ACC26}|studentAdmission.DAL\\studentAdmission.DAL.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission.dal\\verificatordal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8EF9F68-DF8F-4673-B897-0F41655ACC26}|studentAdmission.DAL\\studentAdmission.DAL.vbproj|solutionrelative:studentadmission.dal\\verificatordal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EF9F68-DF8F-4673-B897-0F41655ACC26}|studentAdmission.DAL\\studentAdmission.DAL.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission.dal\\studentadmission.dal.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8EF9F68-DF8F-4673-B897-0F41655ACC26}|studentAdmission.DAL\\studentAdmission.DAL.vbproj|solutionrelative:studentadmission.dal\\studentadmission.dal.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0894C91-FBEE-4E3F-9264-D2AAA045A0AB}|studentAdmission\\studentAdmission.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission\\studentadmission.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0894C91-FBEE-4E3F-9264-D2AAA045A0AB}|studentAdmission\\studentAdmission.vbproj|solutionrelative:studentadmission\\studentadmission.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355003A5-7935-4E92-8A6B-4512B7B5528C}|studentAdmission.BO\\studentAdmission.BO.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission.bo\\users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{355003A5-7935-4E92-8A6B-4512B7B5528C}|studentAdmission.BO\\studentAdmission.BO.vbproj|solutionrelative:studentadmission.bo\\users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE34C0A-D0F4-4CEC-8C14-52EF03D3A0A0}|studentAdmission.myInterface\\studentAdmission.myInterface.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission.myinterface\\iuserrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0CE34C0A-D0F4-4CEC-8C14-52EF03D3A0A0}|studentAdmission.myInterface\\studentAdmission.myInterface.vbproj|solutionrelative:studentadmission.myinterface\\iuserrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355003A5-7935-4E92-8A6B-4512B7B5528C}|studentAdmission.BO\\studentAdmission.BO.vbproj|d:\\users\\bsi80213\\source\\repos\\studentadmissionapp\\studentadmission.bo\\studentadmission.bo.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{355003A5-7935-4E92-8A6B-4512B7B5528C}|studentAdmission.BO\\studentAdmission.BO.vbproj|solutionrelative:studentadmission.bo\\studentadmission.bo.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\mainForm\\Module1.vb",
+              "RelativeDocumentMoniker": "mainForm\\Module1.vb",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\mainForm\\Module1.vb",
+              "RelativeToolTip": "mainForm\\Module1.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-22T07:58:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentDal.vb",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.DAL\\studentDal.vb",
+              "RelativeDocumentMoniker": "studentAdmission.DAL\\studentDal.vb",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.DAL\\studentDal.vb",
+              "RelativeToolTip": "studentAdmission.DAL\\studentDal.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-22T07:27:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studentAdmission.vbproj",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission\\studentAdmission.vbproj",
+              "RelativeDocumentMoniker": "studentAdmission\\studentAdmission.vbproj",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission\\studentAdmission.vbproj",
+              "RelativeToolTip": "studentAdmission\\studentAdmission.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-02-22T07:07:45.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission\\Program.vb",
+              "RelativeDocumentMoniker": "studentAdmission\\Program.vb",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission\\Program.vb",
+              "RelativeToolTip": "studentAdmission\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-22T06:55:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.vb",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.myInterface\\IUserRepository.vb",
+              "RelativeDocumentMoniker": "studentAdmission.myInterface\\IUserRepository.vb",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.myInterface\\IUserRepository.vb",
+              "RelativeToolTip": "studentAdmission.myInterface\\IUserRepository.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-22T06:23:08.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "studentAdmission.DAL.vbproj",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.DAL\\studentAdmission.DAL.vbproj",
+              "RelativeDocumentMoniker": "studentAdmission.DAL\\studentAdmission.DAL.vbproj",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.DAL\\studentAdmission.DAL.vbproj",
+              "RelativeToolTip": "studentAdmission.DAL\\studentAdmission.DAL.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-02-22T06:13:14.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "studentAdmission.BO.vbproj",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.BO\\studentAdmission.BO.vbproj",
+              "RelativeDocumentMoniker": "studentAdmission.BO\\studentAdmission.BO.vbproj",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.BO\\studentAdmission.BO.vbproj",
+              "RelativeToolTip": "studentAdmission.BO\\studentAdmission.BO.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-02-22T06:12:43.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "verificatorDAL.vb",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.DAL\\verificatorDAL.vb",
+              "RelativeDocumentMoniker": "studentAdmission.DAL\\verificatorDAL.vb",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.DAL\\verificatorDAL.vb",
+              "RelativeToolTip": "studentAdmission.DAL\\verificatorDAL.vb",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-22T06:10:21.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.vb",
+              "DocumentMoniker": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.BO\\Users.vb",
+              "RelativeDocumentMoniker": "studentAdmission.BO\\Users.vb",
+              "ToolTip": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.BO\\Users.vb",
+              "RelativeToolTip": "studentAdmission.BO\\Users.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-22T06:06:50.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

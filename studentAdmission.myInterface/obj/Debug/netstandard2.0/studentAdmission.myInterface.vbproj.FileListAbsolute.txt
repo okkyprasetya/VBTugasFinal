@@ -1,0 +1,13 @@
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\bin\Debug\netstandard2.0\studentAdmission.myInterface.deps.json
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\bin\Debug\netstandard2.0\studentAdmission.myInterface.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\bin\Debug\netstandard2.0\studentAdmission.myInterface.pdb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\bin\Debug\netstandard2.0\studentAdmission.BO.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\bin\Debug\netstandard2.0\studentAdmission.BO.pdb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentAdmission.myInterface.vbproj.AssemblyReference.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentAdmission.myInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentAdmission.myInterface.AssemblyInfoInputs.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentAdmission.myInterface.AssemblyInfo.vb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentAdmission.myInterface.vbproj.CoreCompileInputs.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentA.07617DEA.Up2Date
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentAdmission.myInterface.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.myInterface\obj\Debug\netstandard2.0\studentAdmission.myInterface.pdb

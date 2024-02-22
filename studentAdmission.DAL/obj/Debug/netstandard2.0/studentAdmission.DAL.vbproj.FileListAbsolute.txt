@@ -1,0 +1,13 @@
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\bin\Debug\netstandard2.0\studentAdmission.DAL.deps.json
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\bin\Debug\netstandard2.0\studentAdmission.DAL.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\bin\Debug\netstandard2.0\studentAdmission.DAL.pdb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\bin\Debug\netstandard2.0\studentAdmission.BO.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\bin\Debug\netstandard2.0\studentAdmission.BO.pdb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentAdmission.DAL.vbproj.AssemblyReference.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentAdmission.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentAdmission.DAL.AssemblyInfoInputs.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentAdmission.DAL.AssemblyInfo.vb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentAdmission.DAL.vbproj.CoreCompileInputs.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentA.3398627C.Up2Date
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentAdmission.DAL.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.DAL\obj\Debug\netstandard2.0\studentAdmission.DAL.pdb

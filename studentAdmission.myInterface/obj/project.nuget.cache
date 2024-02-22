@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SL6BWyEw+6EwW9ut7yHMsjOixZOdI+BCnPp5wCZb3XAEg+zrnX8XerYpCM0ZBoBZT1tits5P24hnK33YKMzZbA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\bsi80213\\source\\repos\\studentAdmissionApp\\studentAdmission.myInterface\\studentAdmission.myInterface.vbproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\bsi80213\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\Users\\bsi80213\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

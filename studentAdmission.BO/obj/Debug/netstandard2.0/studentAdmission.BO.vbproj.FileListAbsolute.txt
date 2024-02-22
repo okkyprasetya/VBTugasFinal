@@ -1,0 +1,10 @@
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\bin\Debug\netstandard2.0\studentAdmission.BO.deps.json
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\bin\Debug\netstandard2.0\studentAdmission.BO.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\bin\Debug\netstandard2.0\studentAdmission.BO.pdb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\obj\Debug\netstandard2.0\studentAdmission.BO.vbproj.AssemblyReference.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\obj\Debug\netstandard2.0\studentAdmission.BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\obj\Debug\netstandard2.0\studentAdmission.BO.AssemblyInfoInputs.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\obj\Debug\netstandard2.0\studentAdmission.BO.AssemblyInfo.vb
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\obj\Debug\netstandard2.0\studentAdmission.BO.vbproj.CoreCompileInputs.cache
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\obj\Debug\netstandard2.0\studentAdmission.BO.dll
+D:\Users\bsi80213\source\repos\studentAdmissionApp\studentAdmission.BO\obj\Debug\netstandard2.0\studentAdmission.BO.pdb
